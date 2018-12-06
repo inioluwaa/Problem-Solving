@@ -21,10 +21,10 @@ bool IsPalindrome(const string& s) {
     int i = 0, j = s.size() - 1;
     while (i < j) {
         // i and j both skip non-alphanumerical characters
-        while (!isalnum(s[i]) && i < j) {
+        while (!isalnum(s[i])) {
             ++i;
         }
-        while (!isalnum(s[j]) && i < j) {
+        while (!isalnum(s[j])) {
             --j;
         }
         if (tolower(s[i++]) != tolower(s[j--])) {
