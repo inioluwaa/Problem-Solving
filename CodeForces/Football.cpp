@@ -19,6 +19,7 @@ int main() {
                     ck = 1;
                     break;
                 }
+                one = 0;
             }
             else {
                 one++;
@@ -26,6 +27,7 @@ int main() {
                     ck = 1;
                     break;
                 }
+                zero = 0;
             }
         }
         if (ck)
