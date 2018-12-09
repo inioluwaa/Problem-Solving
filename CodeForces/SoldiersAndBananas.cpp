@@ -12,9 +12,10 @@ int main() {
         total += i * k;
     }
     if (total > n) {
-        cout << abs(n - total) << endl;
+        cout << abs(n - total);
     }
     else {
-        cout << 0 << endl;
+        cout << 0;
     }
+    return 0;
 }
