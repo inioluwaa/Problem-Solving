@@ -12,16 +12,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d319cdca-df87-4af5-9f4b-d717ada928f0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/CodeForces/Vasya the Hipster.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTCI Solutions/Arrays and Strings/CheckPermutation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CTCI Solutions/Arrays and Strings/IsUnique.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/Strings/BaseConversion.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/Strings/RemoveAndReplace.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/Strings/Replace1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/Strings/SSDecodeColID.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/Strings/mainthemain.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeForces/SoldiersAndBananas.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/CodeForces/SoldiersAndBananas.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/Strings/Interconvert.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/Strings/Interconvert.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/Strings/IsPalindrome.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/Strings/IsPalindrome.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/Strings/StringCompression.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/Strings/StringCompression.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/main.cpp.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/vc140.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main2.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/CodeForces/cmake-build-debug/" />
@@ -31,90 +42,125 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FUSProjectUsageTrigger">
     <session id="647557407">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
+          <entry key="project.closed" value="61" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.36" value="1" />
-          <entry key="project.open.time.41" value="1" />
-          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.121" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="3" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.42" value="3" />
+          <entry key="project.open.time.43" value="2" />
           <entry key="project.open.time.44" value="4" />
-          <entry key="project.open.time.45" value="3" />
-          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.45" value="5" />
+          <entry key="project.open.time.47" value="3" />
           <entry key="project.open.time.48" value="3" />
-          <entry key="project.open.time.50" value="3" />
-          <entry key="project.open.time.51" value="2" />
-          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.50" value="4" />
+          <entry key="project.open.time.51" value="3" />
+          <entry key="project.open.time.52" value="4" />
           <entry key="project.open.time.53" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.55" value="3" />
           <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.60" value="1" />
           <entry key="project.open.time.62" value="1" />
           <entry key="project.open.time.63" value="2" />
           <entry key="project.open.time.66" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="35" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.opened" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="38810" />
+          <entry key="cpp" value="50759" />
           <entry key="h" value="2083" />
-          <entry key="txt" value="173" />
+          <entry key="txt" value="176" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CMakeLists.txt" value="173" />
-          <entry key="ObjectiveC" value="40893" />
+          <entry key="CMakeLists.txt" value="176" />
+          <entry key="ObjectiveC" value="52842" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Makefile" value="1" />
-          <entry key="cpp" value="129" />
+          <entry key="Makefile" value="2" />
+          <entry key="cbp" value="1" />
+          <entry key="cmake" value="1" />
+          <entry key="cpp" value="171" />
           <entry key="h" value="3" />
-          <entry key="txt" value="5" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CMakeLists.txt" value="5" />
-          <entry key="ObjectiveC" value="129" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="CMakeCache.txt" value="1" />
+          <entry key="CMakeLists.txt" value="7" />
+          <entry key="ObjectiveC" value="171" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeForces/Vasya the Hipster.cpp">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#54#73#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeForces/SoldiersAndBananas.cpp">
+        <entry file="file://$PROJECT_DIR$/DSA/Strings/IsPalindrome.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="51" />
+            <state relative-caret-position="771">
+              <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main2.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -149,7 +195,6 @@
         <option value="$PROJECT_DIR$/DSA/Sorting/MergeTwoSortedArrays.cpp" />
         <option value="$PROJECT_DIR$/DSA/Sorting/MergeSortVec.cpp" />
         <option value="$PROJECT_DIR$/DSA/Strings/RomanToInteger.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/Interconvert.cpp" />
         <option value="$PROJECT_DIR$/C++ Practice/CardGame.cpp" />
         <option value="$PROJECT_DIR$/C++ Practice/EnumIsh.cpp" />
         <option value="$PROJECT_DIR$/C++ Practice/StructFunc.cpp" />
@@ -158,24 +203,32 @@
         <option value="$PROJECT_DIR$/C++ Practice/GoodArray.cpp" />
         <option value="$PROJECT_DIR$/playground/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/CodeForces/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/CodeForces/DisturbingPeople.cpp" />
         <option value="$PROJECT_DIR$/C++Practice/EnumIsh.cpp" />
         <option value="$PROJECT_DIR$/DSA/Sorting/QuickSort.cpp" />
         <option value="$PROJECT_DIR$/C++Practice/GameOfChance.cpp" />
         <option value="$PROJECT_DIR$/maximum.h" />
         <option value="$PROJECT_DIR$/C++Practice/StringCompression.cpp" />
-        <option value="$PROJECT_DIR$/main2.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/VasyaAndMaths.cpp" />
         <option value="$PROJECT_DIR$/header.h" />
-        <option value="$PROJECT_DIR$/DSA/Strings/IsPalindrome.cpp" />
-        <option value="$PROJECT_DIR$/C++Practice/2DArray.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/PetyaAndStrings.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/Football.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/StringCompression.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/SoldiersAndBananas.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/Vasya the Hipster.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Strings/StringCompression.cpp" />
+        <option value="$PROJECT_DIR$/C++Practice/2DArray.cpp" />
+        <option value="$PROJECT_DIR$/CTCI Solutions/Arrays and Strings/IsUnique.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Strings/mainthemain.cpp" />
+        <option value="$PROJECT_DIR$/CTCI Solutions/Arrays and Strings/CheckPermutation.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Strings/Interconvert.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Strings/BaseConversion.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Strings/SSDecodeColID.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Strings/Replace1.cpp" />
+        <option value="$PROJECT_DIR$/main2.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Strings/RemoveAndReplace.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Strings/IsPalindrome.cpp" />
       </list>
     </option>
   </component>
@@ -185,7 +238,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-25" />
     <option name="y" value="16" />
     <option name="width" value="1346" />
@@ -197,48 +250,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="C++Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="Searching" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -255,12 +266,62 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="CTCI Solutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="CTCI Solutions" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays and Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+              <item name="Searching" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+              <item name="Sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Inioluwa/CLionProjects/helloworld/DSA/Strings/Interconvert.cpp" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/books/c++/Tony Gaddis/CPP_EarlyObjects-master/Chapter_6" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -362,38 +423,89 @@
       <workItem from="1544201979862" duration="1657000" />
       <workItem from="1544251713237" duration="7016000" />
       <workItem from="1544296895572" duration="1970000" />
-      <workItem from="1544350023677" duration="2696000" />
+      <workItem from="1544350023677" duration="3479000" />
+      <workItem from="1544392352266" duration="592000" />
+      <workItem from="1544606099066" duration="620000" />
+      <workItem from="1544619063966" duration="3579000" />
+      <workItem from="1546420292137" duration="102000" />
+      <workItem from="1546889033031" duration="54000" />
+      <workItem from="1548069231190" duration="624000" />
+      <workItem from="1548238866285" duration="594000" />
+      <workItem from="1549891513643" duration="2274000" />
+      <workItem from="1549963451281" duration="62000" />
+      <workItem from="1549972286717" duration="1908000" />
+      <workItem from="1550228370058" duration="6183000" />
+      <workItem from="1550255390725" duration="1664000" />
+      <workItem from="1550481348495" duration="5490000" />
+      <workItem from="1550668386918" duration="2087000" />
+      <workItem from="1551274589421" duration="1249000" />
+      <workItem from="1551641922797" duration="889000" />
+      <workItem from="1551814023715" duration="845000" />
+      <workItem from="1552520590356" duration="757000" />
+      <workItem from="1552758223033" duration="1375000" />
+      <workItem from="1553855222393" duration="699000" />
+      <workItem from="1553866745388" duration="6590000" />
+      <workItem from="1553960667230" duration="1255000" />
+      <workItem from="1553970571029" duration="1786000" />
+      <workItem from="1554037714051" duration="6808000" />
+      <workItem from="1554048514614" duration="15568000" />
+      <workItem from="1554152565367" duration="10212000" />
+      <workItem from="1554203146849" duration="198000" />
+      <workItem from="1554212195306" duration="111000" />
+      <workItem from="1554219636212" duration="8070000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="340316000" />
+    <option name="totallyTimeSpent" value="423344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37065053" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36858007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.32847896" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.3441755" weight="0.32847896" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47129908" weight="0.3268921" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CMake" order="7" sideWeight="0.49319214" weight="0.32847896" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.46217853" weight="0.32847896" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.32847896" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.33736762" weight="0.32847896" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.46520424" weight="0.3268921" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.6858006" side_tool="true" weight="0.3268921" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32850242" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.3141994" visible="true" weight="0.3268921" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3202417" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36858007" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.32847896" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47129908" visible="true" weight="0.3268921" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" sideWeight="0.49319214" weight="0.32847896" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.46520424" weight="0.3268921" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.6858006" side_tool="true" weight="0.3268921" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32850242" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.3141994" weight="0.3268921" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3202417" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -402,8 +514,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Number.txt" />
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Friend.txt" />
     <entry file="file://$PROJECT_DIR$/playground/DaysOut.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -420,27 +530,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DSA/Sorting/BubbleSort2.cpp" />
     <entry file="file://$PROJECT_DIR$/DSA/Sorting/SelectionSort.cpp" />
-    <entry file="file://$PROJECT_DIR$/DSA/Searching/SearchingAlgorithms.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="34" column="25" lean-forward="true" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Searching/BinarySearch1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/demofile.txt" />
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/helloworld.cbp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/playground/SafestDrivingArea.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -448,48 +538,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/Interconvert.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/playground/CMakeLists.txt" />
     <entry file="file://$PROJECT_DIR$/CodeForces/CMakeLists.txt" />
-    <entry file="file://$PROJECT_DIR$/DSA/Sorting/MergeTwoSortedArrays.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeForces/GoodArray.cpp" />
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/playground/OverloadedHospital.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Sorting/BubbleSort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Sorting/InsertionSort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -500,28 +555,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Sorting/QuickSort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Sorting/SelectionSortAlgo.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/maximum.h" />
-    <entry file="file://$PROJECT_DIR$/main2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeForces/WayTooLongWords.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -533,20 +567,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C++Practice/2DArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/IsPalindrome.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -599,20 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/StringCompression.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="92" column="1" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/PetyaAndStrings.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DSA/Searching/BinarySearch.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -620,10 +626,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/RomanToInteger.cpp">
+    <entry file="file://$PROJECT_DIR$/CodeForces/PetyaAndStrings.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="105">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/VasyatheHipster.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -634,15 +647,180 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/RomanToInteger.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C++Practice/2DArray.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/StringCompression.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CTCI Solutions/Arrays and Strings/CheckPermutation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Vasya the Hipster.cpp">
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/helloworld.cbp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state>
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/mainthemain.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CTCI Solutions/Arrays and Strings/IsUnique.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Searching/SearchingAlgorithms.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Searching/BinarySearch1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Sorting/BubbleSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Sorting/QuickSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Sorting/InsertionSort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Sorting/MergeTwoSortedArrays.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Sorting/SelectionSortAlgo.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/Interconvert.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="e#54#73#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/BaseConversion.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/SSDecodeColID.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/Replace1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-119">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main2.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/RemoveAndReplace.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/IsPalindrome.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
