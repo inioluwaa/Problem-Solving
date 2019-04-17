@@ -12,13 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d319cdca-df87-4af5-9f4b-d717ada928f0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA/Strings/RealStringCompression.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/vc140.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.ilk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main2.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/CodeForces/cmake-build-debug/" />
@@ -47,20 +50,21 @@
     <session id="647557407">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="68" />
+          <entry key="project.closed" value="73" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.116" value="1" />
           <entry key="project.open.time.121" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="3" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.39" value="3" />
-          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="4" />
+          <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.41" value="3" />
           <entry key="project.open.time.42" value="4" />
-          <entry key="project.open.time.43" value="4" />
+          <entry key="project.open.time.43" value="5" />
           <entry key="project.open.time.44" value="4" />
           <entry key="project.open.time.45" value="5" />
           <entry key="project.open.time.47" value="3" />
@@ -81,12 +85,12 @@
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="3" />
-          <entry key="project.opened" value="72" />
+          <entry key="project.opened" value="77" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="59614" />
+          <entry key="cpp" value="60721" />
           <entry key="h" value="2083" />
           <entry key="txt" value="179" />
         </counts>
@@ -94,7 +98,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="179" />
-          <entry key="ObjectiveC" value="61697" />
+          <entry key="ObjectiveC" value="62804" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -102,7 +106,7 @@
           <entry key="Makefile" value="2" />
           <entry key="cbp" value="1" />
           <entry key="cmake" value="1" />
-          <entry key="cpp" value="188" />
+          <entry key="cpp" value="192" />
           <entry key="h" value="3" />
           <entry key="txt" value="7" />
         </counts>
@@ -111,7 +115,7 @@
         <counts>
           <entry key="CMakeCache.txt" value="1" />
           <entry key="CMakeLists.txt" value="7" />
-          <entry key="ObjectiveC" value="188" />
+          <entry key="ObjectiveC" value="192" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -121,66 +125,14 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1329">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <element signature="e#73#92#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DSA/Strings/StringCompression.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DSA/Strings/SnakeString.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DSA/Strings/GetValidIPAddress.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main2.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="765">
+              <caret line="45" selection-start-line="20" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -200,7 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/playground/OverloadedHospital.cpp" />
         <option value="$PROJECT_DIR$/playground/TotalCharges.cpp" />
         <option value="$PROJECT_DIR$/playground/SearchingAlgorithms.cpp" />
         <option value="$PROJECT_DIR$/DSA/Sorting/SelectionSort.cpp" />
@@ -247,9 +198,10 @@
         <option value="$PROJECT_DIR$/DSA/Strings/LookAndSay.cpp" />
         <option value="$PROJECT_DIR$/DSA/Strings/RomanToInteger.cpp" />
         <option value="$PROJECT_DIR$/DSA/Strings/GetValidIPAddress.cpp" />
-        <option value="$PROJECT_DIR$/main2.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/DSA/Strings/SnakeString.cpp" />
+        <option value="$PROJECT_DIR$/main2.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Strings/RealStringCompression.cpp" />
         <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
@@ -272,6 +224,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="helloworld" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="CodeForces" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,13 +250,7 @@
             <path>
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="CTCI Solutions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="CTCI Solutions" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays and Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="C++Practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
@@ -316,22 +278,6 @@
             <path>
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="helloworld" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="helloworld" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="CodeForces" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -482,29 +428,33 @@
       <workItem from="1554577646151" duration="4113000" />
       <workItem from="1554743705989" duration="482000" />
       <workItem from="1555054744618" duration="2855000" />
-      <workItem from="1555062941644" duration="10471000" />
+      <workItem from="1555062941644" duration="14945000" />
+      <workItem from="1555094763988" duration="1157000" />
+      <workItem from="1555162893573" duration="2453000" />
+      <workItem from="1555256099470" duration="592000" />
+      <workItem from="1555321456996" duration="4557000" />
+      <workItem from="1555519972660" duration="997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="476082000" />
+    <option name="totallyTimeSpent" value="490312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.40332326" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.43353474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.32847896" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.47129908" visible="true" weight="0.3268921" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47129908" weight="0.35909823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CMake" order="7" sideWeight="0.49319214" weight="0.3268921" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.46520424" weight="0.2962963" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.46520424" visible="true" weight="0.2962963" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.6858006" side_tool="true" weight="0.3268921" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32850242" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.3141994" weight="0.3268921" />
@@ -522,7 +472,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cmake-build-debug/demofile.txt" />
     <entry file="file://$PROJECT_DIR$/playground/SafestDrivingArea.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -636,13 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C++Practice/2DArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -795,16 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -812,40 +744,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/GetValidIPAddress.cpp">
+    <entry file="file://$PROJECT_DIR$/C++Practice/2DArray.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/GetValidIPAddress.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/RealStringCompression.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main2.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/DSA/Strings/SnakeString.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="459">
           <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/StringCompression.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Strings/StringCompression.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1329">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="e#73#92#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="765">
+          <caret line="45" selection-start-line="20" selection-end-line="45" />
         </state>
       </provider>
     </entry>
