@@ -12,7 +12,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d319cdca-df87-4af5-9f4b-d717ada928f0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/DSA/Arrays/DutchFlagPartition/DutchFlagPartition1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -42,17 +49,17 @@
     <session id="647557407">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="74" />
+          <entry key="project.closed" value="76" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.116" value="1" />
           <entry key="project.open.time.121" value="1" />
-          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="3" />
           <entry key="project.open.time.38" value="2" />
-          <entry key="project.open.time.39" value="4" />
+          <entry key="project.open.time.39" value="5" />
           <entry key="project.open.time.40" value="3" />
           <entry key="project.open.time.41" value="3" />
           <entry key="project.open.time.42" value="4" />
@@ -78,12 +85,12 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.85" value="1" />
-          <entry key="project.opened" value="79" />
+          <entry key="project.opened" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="62518" />
+          <entry key="cpp" value="63977" />
           <entry key="h" value="2083" />
           <entry key="txt" value="179" />
         </counts>
@@ -91,7 +98,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CMakeLists.txt" value="179" />
-          <entry key="ObjectiveC" value="64601" />
+          <entry key="ObjectiveC" value="66060" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -99,7 +106,7 @@
           <entry key="Makefile" value="2" />
           <entry key="cbp" value="1" />
           <entry key="cmake" value="1" />
-          <entry key="cpp" value="200" />
+          <entry key="cpp" value="203" />
           <entry key="h" value="3" />
           <entry key="txt" value="7" />
         </counts>
@@ -108,7 +115,7 @@
         <counts>
           <entry key="CMakeCache.txt" value="1" />
           <entry key="CMakeLists.txt" value="7" />
-          <entry key="ObjectiveC" value="200" />
+          <entry key="ObjectiveC" value="203" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -119,11 +126,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="425">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DSA/Arrays/DutchFlagPartition/DutchFlagPartition1.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/C++Practice/2DArray.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -143,8 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/playground/SearchingAlgorithms.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Sorting/SelectionSort.cpp" />
         <option value="$PROJECT_DIR$/DSA/Sorting/SelectionSortAlgo.cpp" />
         <option value="$PROJECT_DIR$/DSA/Sorting/InsertionSort.cpp" />
         <option value="$PROJECT_DIR$/DSA/Sorting/BubbleSort.cpp" />
@@ -193,6 +219,8 @@
         <option value="$PROJECT_DIR$/main2.cpp" />
         <option value="$PROJECT_DIR$/DSA/Strings/RealStringCompression.cpp" />
         <option value="$PROJECT_DIR$/DSA/Strings/StringMatching.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Arrays/EvenBeforeOdd.cpp" />
+        <option value="$PROJECT_DIR$/DSA/Arrays/DutchFlagPartition/DutchFlagPartition1.cpp" />
         <option value="$PROJECT_DIR$/main.cpp" />
       </list>
     </option>
@@ -231,6 +259,12 @@
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloworld" type="462c0819:PsiDirectoryNode" />
               <item name="DSA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="DSA" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
@@ -408,18 +442,20 @@
       <workItem from="1555321456996" duration="4557000" />
       <workItem from="1555519972660" duration="997000" />
       <workItem from="1555540216723" duration="654000" />
-      <workItem from="1555940873873" duration="6564000" />
+      <workItem from="1555940873873" duration="8286000" />
+      <workItem from="1555998761102" duration="169000" />
+      <workItem from="1556053732377" duration="3312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="497530000" />
+    <option name="totallyTimeSpent" value="502733000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="752" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28927493" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29833838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -433,7 +469,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.46520424" weight="0.2962963" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.6858006" side_tool="true" weight="0.3268921" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32850242" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.3141994" visible="true" weight="0.3268921" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.3141994" weight="0.3268921" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -448,8 +484,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/playground/CMakeLists.txt" />
-    <entry file="file://$PROJECT_DIR$/CodeForces/CMakeLists.txt" />
     <entry file="file://$PROJECT_DIR$/CodeForces/GoodArray.cpp" />
     <entry file="file://$PROJECT_DIR$/playground/OverloadedHospital.cpp">
       <provider selected="true" editor-type-id="text-editor">
@@ -671,13 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/C++Practice/2DArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DSA/Strings/GetValidIPAddress.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -755,6 +782,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Arrays/EvenBeforeOdd.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/C++Practice/2DArray.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Arrays/DutchFlagPartition/DutchFlagPartition1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -763,8 +811,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="425">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
