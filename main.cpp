@@ -8,7 +8,7 @@ int main() {}
 
 typedef enum { RED, WHITE, BLUE} Color;
 
-void DutchFlagPartition(vector<Color>* A_ptr, int pivot_index) {
+void DutchFlagPartition2(vector<Color>* A_ptr, int pivot_index) {
     vector<Color> &A = *A_ptr;
     Color pivot = A[pivot_index];
     // First pass: group elements smaller than pivot.

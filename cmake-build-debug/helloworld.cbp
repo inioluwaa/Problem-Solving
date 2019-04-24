@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Inioluwa/CLionProjects/helloworld/main.cpp">
+		<Unit filename="C:/Users/Inioluwa/CLionProjects/helloworld/main2.cpp">
 			<Option target="helloworld"/>
 		</Unit>
 		<Unit filename="C:/Users/Inioluwa/CLionProjects/helloworld/CMakeLists.txt">
