@@ -1,29 +1,21 @@
-// Increment an arbitrary-precision integer.
-
 #include <iostream>
+#include <array>
 #include <vector>
 #include <algorithm>
 
 using namespace std;
-vector<int> PlusOne(vector<int>);
 
 int main() {
-    vector<int> A {9, 9};
-    vector<int> B  = PlusOne(A);
-    for (auto i : B) {
-        cout << i << " ";
-    }
 }
 
-// 1, 2, 9 --> 1, 3, 0
-vector<int> PlusOne(vector<int> A) {
-    ++A.back();
-    for (int i = A.size() - 1; i > 0 && A[i] == 10; --i) {
-        A[i] = 0, ++A[i - 1];
+vector<int> Multiply(vector<int> num1, vector<int> num2) {
+    int sign = num1.front() < 0 ^ num2.front() < 0 ? -1 : 1;
+    num1.front() = abs(num1.front()), num2.front() = abs(num2.front());
+
+    vector<int> result(num1.size() + num2.size(), 0);
+    for (int i = num1.size() - 1; i >= 0; --i) {
+        for (int j = num2.size() - 1; j >= 0; --j) {
+
+        }
     }
-    if (A[0] == 10) {
-        A[0] = 0;
-        A.insert(A.begin(), 1);
-    }
-    return A;
 }

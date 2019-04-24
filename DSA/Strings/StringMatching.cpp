@@ -6,7 +6,7 @@ int RabinKarp(const string &, const string &);
 
 int main() {
     string t = "GACGCCA";
-    string s = "GCCff";
+    string s = "GCC";
 
     int merger = RabinKarp(t, s);
     cout << merger;
