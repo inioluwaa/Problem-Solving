@@ -124,32 +124,32 @@ helloworld\fast:
 	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\build
 .PHONY : helloworld\fast
 
-main2.obj: main2.cpp.obj
+main.obj: main.cpp.obj
 
-.PHONY : main2.obj
+.PHONY : main.obj
 
 # target to build an object file
-main2.cpp.obj:
-	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\main2.cpp.obj
-.PHONY : main2.cpp.obj
+main.cpp.obj:
+	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\main.cpp.obj
+.PHONY : main.cpp.obj
 
-main2.i: main2.cpp.i
+main.i: main.cpp.i
 
-.PHONY : main2.i
+.PHONY : main.i
 
 # target to preprocess a source file
-main2.cpp.i:
-	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\main2.cpp.i
-.PHONY : main2.cpp.i
+main.cpp.i:
+	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\main.cpp.i
+.PHONY : main.cpp.i
 
-main2.s: main2.cpp.s
+main.s: main.cpp.s
 
-.PHONY : main2.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-main2.cpp.s:
-	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\main2.cpp.s
-.PHONY : main2.cpp.s
+main.cpp.s:
+	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -160,9 +160,9 @@ help:
 	@echo ... helloworld
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... main2.obj
-	@echo ... main2.i
-	@echo ... main2.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 .PHONY : help
 
 

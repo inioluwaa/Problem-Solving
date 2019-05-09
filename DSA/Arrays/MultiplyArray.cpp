@@ -10,10 +10,12 @@ int main() {
     vector<int> num1 {1, 9, 3, 7, 0, 7, 7, 2, 1};
     vector<int> num2 {-7, 6, 1, 8, 3, 8, 2, 5, 7, 2, 8, 7};
     vector<int> num3 = Multiply(num1, num2);
-    for (auto i : num3) {
+    auto result = [](const int &n) {cout << n << " "; };
+    for_each(num3.begin(), num3.end(), result);
+    // OR
+    /*for (auto i : num3) {
         cout << i << " ";
-    }
-
+    }*/
 }
 
 vector<int> Multiply(vector<int> num1, vector<int> num2) {
@@ -29,6 +31,7 @@ vector<int> Multiply(vector<int> num1, vector<int> num2) {
         }
     }
 
+    // Remove the leading zeros.
     result = {find_if_not(begin(result), end(result), [](int a) { return a == 0;}),
               end(result)};
     if (result.empty()) {
