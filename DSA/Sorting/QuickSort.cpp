@@ -6,7 +6,6 @@ using namespace std;
 
 
 int main() {
-
 }
 
 void quickSort(int arr[], int left, int right) {

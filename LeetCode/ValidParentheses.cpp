@@ -8,7 +8,7 @@ using namespace std;
 bool isValid(string s);
 
 int main() {
-    cout <<  isValid("(())");
+    cout <<  isValid("(()))))))");
 }
 
 /*bool check_key(unordered_map<char, char> T, char key) {
