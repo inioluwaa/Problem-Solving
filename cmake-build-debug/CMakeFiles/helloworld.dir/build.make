@@ -58,33 +58,33 @@ include CMakeFiles\helloworld.dir\progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles\helloworld.dir\flags.make
 
-CMakeFiles\helloworld.dir\test.cpp.obj: CMakeFiles\helloworld.dir\flags.make
-CMakeFiles\helloworld.dir\test.cpp.obj: ..\test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Inioluwa\CLionProjects\helloworld\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/helloworld.dir/test.cpp.obj"
+CMakeFiles\helloworld.dir\main2.cpp.obj: CMakeFiles\helloworld.dir\flags.make
+CMakeFiles\helloworld.dir\main2.cpp.obj: ..\main2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Inioluwa\CLionProjects\helloworld\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/helloworld.dir/main2.cpp.obj"
 	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\helloworld.dir\test.cpp.obj /FdCMakeFiles\helloworld.dir\ /FS -c C:\Users\Inioluwa\CLionProjects\helloworld\test.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\helloworld.dir\main2.cpp.obj /FdCMakeFiles\helloworld.dir\ /FS -c C:\Users\Inioluwa\CLionProjects\helloworld\main2.cpp
 <<
 
-CMakeFiles\helloworld.dir\test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/helloworld.dir/test.cpp.i"
-	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe > CMakeFiles\helloworld.dir\test.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Inioluwa\CLionProjects\helloworld\test.cpp
+CMakeFiles\helloworld.dir\main2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/helloworld.dir/main2.cpp.i"
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe > CMakeFiles\helloworld.dir\main2.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Inioluwa\CLionProjects\helloworld\main2.cpp
 <<
 
-CMakeFiles\helloworld.dir\test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/helloworld.dir/test.cpp.s"
+CMakeFiles\helloworld.dir\main2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/helloworld.dir/main2.cpp.s"
 	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\helloworld.dir\test.cpp.s /c C:\Users\Inioluwa\CLionProjects\helloworld\test.cpp
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\helloworld.dir\main2.cpp.s /c C:\Users\Inioluwa\CLionProjects\helloworld\main2.cpp
 <<
 
 # Object files for target helloworld
 helloworld_OBJECTS = \
-"CMakeFiles\helloworld.dir\test.cpp.obj"
+"CMakeFiles\helloworld.dir\main2.cpp.obj"
 
 # External object files for target helloworld
 helloworld_EXTERNAL_OBJECTS =
 
-helloworld.exe: CMakeFiles\helloworld.dir\test.cpp.obj
+helloworld.exe: CMakeFiles\helloworld.dir\main2.cpp.obj
 helloworld.exe: CMakeFiles\helloworld.dir\build.make
 helloworld.exe: CMakeFiles\helloworld.dir\objects1.rsp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Inioluwa\CLionProjects\helloworld\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable helloworld.exe"

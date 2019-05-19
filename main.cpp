@@ -3,32 +3,50 @@
 #include <algorithm>
 
 using namespace std;
-int OutOfOrder(const vector<int> &);
+bool CheckRight(const vector<vector<char>> &CheckerMatrix, int i, int j, const string& target);
+bool WordPuzzle(const vector<vector<char>> &CheckerMatrix, const string& target);
+bool CheckDown(const vector<vector<char>> &CheckerMatrix, int i, int j, const string &target);
 
 int main() {
-    vector<int> u = {5, 4, 3, 2, 1};
-    vector<int> v = {2, 4, 1, 3, 5};
-    int count = OutOfOrder(u);
-    cout << count;
+    vector<vector<char>> Checker = {
+            {'F', 'A', 'C', 'I'},
+            {'O', 'B', 'Q', 'P'},
+            {'A', 'N', 'O', 'B'},
+            {'M', 'A', 'S', 'S'}
+    };
+    bool answer = WordPuzzle(Checker, "FOAM");
+    cout << answer;
 }
 
-// O(n) -- to-do later.
-int OutOfOrder2(const vector<int> &A){
-    int count  = 0, minumum = numeric_limits<int>::max();
-    for (int i(0); i < A.size(); ++i) {
-        if ()
-    }
-}
+bool WordPuzzle(const vector<vector<char>> &CheckerMatrix, const string& target) {
+    int row_size = CheckerMatrix.size();
+    int col_size = CheckerMatrix[0].size();
 
-// O(n^2)
-int OutOfOrder(const vector<int> &A) {
-    int count = 0;
-    for (int i(0); i < A.size() - 1; ++i) {
-        for (int j(i + 1); j < A.size(); ++j) {
-            if (A[i] > A[j]) {
-                ++count;
+    for (int i(0); i < row_size; ++i) {
+        for (int j(0); j < col_size ; ++j) {
+            if (target.front() == CheckerMatrix[i][j]) {
+                if (CheckRight(CheckerMatrix, i, j, target) || CheckDown(CheckerMatrix, i, j, target))
+                    return true;
             }
         }
     }
-    return count;
+    return false;
+}
+
+bool CheckRight(const vector<vector<char>> &CheckerMatrix, int i, int j, const string &target) {
+    int k = 0;
+    while (j < CheckerMatrix[i].size() && target[k] == CheckerMatrix[i][j]) {
+        k++;
+        j++;
+    }
+    return k == target.size();
+}
+
+bool CheckDown(const vector<vector<char>> &CheckerMatrix, int i, int j, const string &target) {
+    int k = 0;
+    while (i < CheckerMatrix.size() && target[k] == CheckerMatrix[i][j]) {
+        k++;
+        i++;
+    }
+    return k == target.size();
 }
