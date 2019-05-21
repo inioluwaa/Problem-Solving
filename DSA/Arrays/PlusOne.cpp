@@ -25,5 +25,8 @@ vector<int> PlusOne(vector<int> A) {
         A[0] = 0;
         A.insert(A.begin(), 1);
     }
+    // Remove leading zeros.
+    A = {find_if_not(begin(A), end(A), [](int a) { return a == 0;}),
+         end(A)};
     return A;
 }

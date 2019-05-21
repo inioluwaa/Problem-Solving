@@ -7,7 +7,7 @@ using namespace std;
 vector<int> Multiply(vector<int>, vector<int>);
 
 int main() {
-    vector<int> num1 {1, 9, 3, 7, 0, 7, 7, 2, 1};
+    vector<int> num1 {1, 9, 3, 7, 0,[] 7, 7, 2, 1};
     vector<int> num2 {-7, 6, 1, 8, 3, 8, 2, 5, 7, 2, 8, 7};
     vector<int> num3 = Multiply(num1, num2);
     auto result = [](const int &n) {cout << n << " "; };
