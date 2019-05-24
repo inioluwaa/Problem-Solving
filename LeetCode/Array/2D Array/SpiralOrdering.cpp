@@ -84,3 +84,31 @@ vector<int> MatrixInSpiralOrder(const vector<vector<int>> &TwoDMatrix) {
     }
     return SpiralOrdering;
 }
+
+// Solution 3
+// O(n)
+vector<int> MatrixInSpiralOrder(vector<vector<int>> TwoArr) {
+    vector<int> spiral_ordering;
+    if (TwoArr.empty()) return spiral_ordering;
+    int row_size = TwoArr.size();
+    int col_size = TwoArr[0].size();
+
+    vector<int> dir_row = {0, 1, 0, -1};
+    vector<int> dir_col = {1, 0, -1, 0};
+
+    int r = 0, c = 0, dir = 0;
+    for (int i(0); i < row_size * col_size; ++i) {
+        spiral_ordering.emplace_back(TwoArr[r][c]);
+        TwoArr[r][c] = 0;
+        int next_r = r + dir_row[dir];
+        int next_c = c + dir_col[dir];
+        if (next_r < 0 || next_r >= row_size || next_c < 0 ||
+            next_c >= col_size || TwoArr[next_r][next_c] == 0) {
+            dir = (dir + 1) % 4;
+            next_r = r + dir_row[dir];
+            next_c = c + dir_col[dir];
+        }
+        r = next_r, c = next_c;
+    }
+    return spiral_ordering;
+}

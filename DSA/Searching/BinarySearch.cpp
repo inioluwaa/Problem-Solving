@@ -18,6 +18,7 @@ int main() {
 
 }
 
+// [ 1, 2, 3, 4, 5 ].
 int BinarySearch(const vector<int> &arr, int value) {
     int left = 0, right = arr.size() - 1, middle, position = -1;
     bool found = false;
