@@ -3,33 +3,29 @@
 #include <algorithm>
 
 using namespace std;
+int NumberOfTimes(int N, int X);
 
 int Segregate(vector<int> arr);
 vector<int> MatrixInSpiralOrder(vector<vector<int>> TwoArr);
+vector<vector<int>> MatrixSpiral(int);
 
 int main() {
-    // N X N
-    vector<vector<int>> u = { {1, 2, 3},
-                              {4, 5, 6},
-                              {7, 8, 9}
-    };
-    // N X M
-    vector<vector<int>> v = { {1, 2, 3, 4, 5},
-                              {6, 7, 8, 9, 10},
-                              {11, 12, 13, 14, 15},
-                              {16, 17, 18, 19, 20}
-    };
-    vector<int> w = MatrixInSpiralOrder(u);
-    for (auto i : w) {
-        cout << i << " ";
+    int w = NumberOfTimes(6, 12);
+    cout << w;
+}
+
+int NumberOfTimes(int N, int X) {
+    int count = 0;
+    for (int i(1); i <= N; ++i) {
+        if (X % i == 0 && (X / i) <= N) {
+            count++;
+        }
     }
+    return count;
 }
 
 
-
-
-/*
-int Segregate(vector<int> arr) {
+/*int Segregate(vector<int> arr) {
     vector<int> &result = arr;
     int j = 0;
     for (int i(0); i < result.size(); ++i) {
@@ -49,5 +45,4 @@ int FindMissingPositive(vector<int> arr) {
         }
     }
     for (int i(0); i < end)
-}
-*/
+}*/
