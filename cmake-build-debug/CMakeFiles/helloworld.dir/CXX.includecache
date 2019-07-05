@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Inioluwa/CLionProjects/helloworld/main2.cpp
+C:/Users/Inioluwa/CLionProjects/helloworld/test.cpp
 iostream
 -
 vector
--
-algorithm
 -
 

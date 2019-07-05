@@ -12,8 +12,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d319cdca-df87-4af5-9f4b-d717ada928f0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 1/MaximumPairWiseProduct.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/EuclidGCD.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciHugeWithPisano.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciLastDigit.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciNumbers.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciSquareSum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciSumHuge.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/LCM.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/CarRefills.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/CollectingSignatures.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/LargestNumber.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaxNumOfPrizes.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaximumAdvertisementRevenue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaximumValueLoot.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MoneyChange.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 4/BinarySearch.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 4/NumberOfInversions.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCodingProblem/FindElementInRotatedSortedArray.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/2D Array/GenerateMatrix.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/Array/MajorityElement.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DailyCodingProblem/NumberOfTimes.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DailyCodingProblem/NumberOfTimes.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/ValidParentheses.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/ValidParentheses.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/main2.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/main2.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/test.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/test.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/vc140.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/helloworld.dir/vc140.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/helloworld.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/helloworld.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/CodeForces/cmake-build-debug/" />
@@ -45,58 +89,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.cpp">
+        <entry file="file://$PROJECT_DIR$/main2.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="323">
+              <caret line="19" column="64" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="64" />
               <folding>
-                <element signature="e#289#308#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DSA/Searching/BinarySearch.cpp">
+        <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week4_divide_and_conquer/2_majority_element/majority_element.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="323">
+              <caret line="19" column="3" selection-end-line="22" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main2.cpp">
+        <entry file="file://$PROJECT_DIR$/test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/Array/2D Array/SpiralOrdering.cpp">
+        <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 4/NumberOfInversions.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1513">
-              <caret line="89" column="52" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
+            <state relative-caret-position="612">
+              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DSA/Strings/Interconvert.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -105,7 +140,7 @@
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -125,44 +160,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeForces/VasyaAndMaths.cpp" />
-        <option value="$PROJECT_DIR$/header.h" />
-        <option value="$PROJECT_DIR$/CodeForces/PetyaAndStrings.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/Football.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/SoldiersAndBananas.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/Vasya the Hipster.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/StringCompression.cpp" />
-        <option value="$PROJECT_DIR$/C++Practice/2DArray.cpp" />
-        <option value="$PROJECT_DIR$/CTCI Solutions/Arrays and Strings/IsUnique.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/mainthemain.cpp" />
-        <option value="$PROJECT_DIR$/CTCI Solutions/Arrays and Strings/CheckPermutation.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/BaseConversion.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/SSDecodeColID.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/Replace1.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/RemoveAndReplace.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/IsPalindrome.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/ReversesWordAndEquation.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/LookAndSay.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/RomanToInteger.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/GetValidIPAddress.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/SnakeString.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Arrays/EvenBeforeOdd.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Arrays/DutchFlagPartition/DutchFlagPartition1.cpp" />
-        <option value="$PROJECT_DIR$/DSA/Strings/StringMatching.cpp" />
         <option value="$PROJECT_DIR$/DSA/Arrays/CanReachEndOfArray.cpp" />
         <option value="$PROJECT_DIR$/DSA/Arrays/GeneratePrimes.cpp" />
         <option value="$PROJECT_DIR$/DSA/Arrays/ApplyPermutation.cpp" />
         <option value="$PROJECT_DIR$/DSA/Arrays/DeleteDuplicates.cpp" />
         <option value="$PROJECT_DIR$/DSA/Arrays/DutchFlagPartition/DutchFlagPartition2.cpp" />
         <option value="$PROJECT_DIR$/DSA/Sorting/QuickSort.cpp" />
-        <option value="$PROJECT_DIR$/LeetCode/ValidParentheses.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/Array/DominantIndex.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/Array/PivotIndex.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/Array/2D Array/FindDiagonalOrder.cpp" />
         <option value="$PROJECT_DIR$/DSA/Arrays/BuyAndSellStocksOnce.cpp" />
         <option value="$PROJECT_DIR$/LeetCode/Array/2D Array/PascalTriangle.cpp" />
         <option value="$PROJECT_DIR$/DSA/Strings/RealStringCompression.cpp" />
-        <option value="$PROJECT_DIR$/test.cpp" />
         <option value="$PROJECT_DIR$/DSA/Strings/RepeatedString.cpp" />
         <option value="$PROJECT_DIR$/DailyCodingProblem/FindWordIn2DArray.cpp" />
         <option value="$PROJECT_DIR$/DailyCodingProblem/power.cpp" />
@@ -171,19 +180,44 @@
         <option value="$PROJECT_DIR$/DSA/Arrays/MultiplyArray.cpp" />
         <option value="$PROJECT_DIR$/DSA/Arrays/PlusOne.cpp" />
         <option value="$PROJECT_DIR$/DSA/Searching/BinarySearch.cpp" />
-        <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/LeetCode/Array/2D Array/SpiralOrdering.cpp" />
         <option value="$PROJECT_DIR$/DSA/Strings/Interconvert.cpp" />
+        <option value="$PROJECT_DIR$/DailyCodingProblem/NumberOfTimes.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/ValidParentheses.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/Array/2D Array/GenerateMatrix.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/MaximumPairWiseProduct.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/FibonacciNumbers.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciLastDigit.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/EuclidGCD.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/LCM.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciHugeWithPisano.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciSumHuge.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciSquareSum.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MoneyChange.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaximumValueLoot.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaximumAdvertisementRevenue.cpp" />
+        <option value="$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week3_greedy_algorithms/7_maximum_salary/largest_number.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/CollectingSignatures.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaximumSalary.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaxNumOfPrizes.cpp" />
+        <option value="$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week3_greedy_algorithms/3_car_fueling/car_fueling.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/CarRefills.cpp" />
+        <option value="$PROJECT_DIR$/DailyCodingProblem/FindElementInRotatedSortedArray.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 4/BinarySearch.cpp" />
         <option value="$PROJECT_DIR$/main2.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/LargestNumber.cpp" />
+        <option value="$PROJECT_DIR$/LeetCode/Array/MajorityElement.cpp" />
+        <option value="$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 4/NumberOfInversions.cpp" />
+        <option value="$PROJECT_DIR$/test.cpp" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="28" />
-    <option name="y" value="3" />
-    <option name="width" value="1346" />
-    <option name="height" value="696" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="376" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -217,12 +251,27 @@
             <path>
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="C++Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseraUCSanDiego" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="DailyCodingProblem" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseraUCSanDiego" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmToolbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseraUCSanDiego" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmToolbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseraUCSanDiego" type="462c0819:PsiDirectoryNode" />
+              <item name="AlgorithmToolbox" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
@@ -239,7 +288,7 @@
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
               <item name="helloworld" type="462c0819:PsiDirectoryNode" />
               <item name="DSA" type="462c0819:PsiDirectoryNode" />
-              <item name="Searching" type="462c0819:PsiDirectoryNode" />
+              <item name="Sorting" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
@@ -258,13 +307,6 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="helloworld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="2D Array" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -276,14 +318,15 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Inioluwa/CLionProjects/helloworld/DSA/Strings/Interconvert.cpp" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/books/c++/Tony Gaddis/CPP_EarlyObjects-master/Chapter_6" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Inioluwa\CLionProjects\helloworld\CourseraUCSanDiego\AlgorithmToolbox\Week 1" />
+      <recent name="C:\Users\Inioluwa\CLionProjects\helloworld\CourseraUCSanDiego\AlgorithmToolbox\Week 2" />
+      <recent name="C:\Users\Inioluwa\CLionProjects\helloworld\CourseraUCSanDiego\AlgorithmToolbox" />
       <recent name="C:\Users\Inioluwa\CLionProjects\helloworld\DSA\Strings" />
       <recent name="C:\Users\Inioluwa\CLionProjects\helloworld\CodeForces" />
-      <recent name="C:\Users\Inioluwa\CLionProjects\helloworld\DSA\Searching" />
-      <recent name="C:\Users\Inioluwa\CLionProjects\helloworld\DSA" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -448,12 +491,46 @@
       <workItem from="1558704132491" duration="9362000" />
       <workItem from="1558888986689" duration="1508000" />
       <workItem from="1558915044683" duration="588000" />
-      <workItem from="1559032301978" duration="1218000" />
+      <workItem from="1559032301978" duration="4420000" />
+      <workItem from="1560094734261" duration="6515000" />
+      <workItem from="1560122106499" duration="19776000" />
+      <workItem from="1560320697030" duration="2192000" />
+      <workItem from="1560358707401" duration="850000" />
+      <workItem from="1560450425940" duration="11610000" />
+      <workItem from="1560537606523" duration="1351000" />
+      <workItem from="1560595186461" duration="1199000" />
+      <workItem from="1560626671118" duration="5909000" />
+      <workItem from="1560643341703" duration="2333000" />
+      <workItem from="1560674914708" duration="592000" />
+      <workItem from="1560677311465" duration="8923000" />
+      <workItem from="1560778787547" duration="4809000" />
+      <workItem from="1560849945167" duration="4548000" />
+      <workItem from="1560861012323" duration="1993000" />
+      <workItem from="1560877988047" duration="13000" />
+      <workItem from="1560921660847" duration="7267000" />
+      <workItem from="1560945152568" duration="5769000" />
+      <workItem from="1560966133938" duration="4377000" />
+      <workItem from="1561011211150" duration="19133000" />
+      <workItem from="1561121074421" duration="12366000" />
+      <workItem from="1561201624339" duration="1634000" />
+      <workItem from="1561290280013" duration="1155000" />
+      <workItem from="1561362889877" duration="603000" />
+      <workItem from="1561377852658" duration="1026000" />
+      <workItem from="1561461851972" duration="9046000" />
+      <workItem from="1561579340612" duration="12114000" />
+      <workItem from="1561700755360" duration="8791000" />
+      <workItem from="1561749106353" duration="2126000" />
+      <workItem from="1561926737553" duration="5471000" />
+      <workItem from="1561976216978" duration="1821000" />
+      <workItem from="1562050987247" duration="6737000" />
+      <workItem from="1562065477857" duration="6038000" />
+      <workItem from="1562240245621" duration="7168000" />
+      <workItem from="1562295371761" duration="871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="717247000" />
+    <option name="totallyTimeSpent" value="906575000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,23 +543,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="752" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28172207" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2854985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924356" weight="0.32847896" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.2900302" visible="true" weight="0.3585209" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4410876" weight="0.35691318" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924472" weight="0.329582" />
-      <window_info anchor="bottom" id="CMake" order="7" sideWeight="0.49169186" weight="0.3268921" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.39350453" weight="0.29581994" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.70996976" side_tool="true" weight="0.3585209" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49848944" weight="0.3279743" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.42673716" weight="0.32636657" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848944" weight="0.329582" />
+      <window_info anchor="bottom" id="CMake" order="7" sideWeight="0.489426" weight="0.32636657" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.39199397" weight="0.29581994" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5589124" side_tool="true" visible="true" weight="0.32636657" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49622357" weight="0.3279743" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.2439577" weight="0.32636657" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -534,368 +610,433 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DSA/Sorting/MergeTwoSortedArrays.cpp">
+    <entry file="file://$PROJECT_DIR$/LeetCode/Array/2D Array/SpiralOrdering.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-52">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Sorting/SelectionSortAlgo.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/BaseConversion.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/IsPalindrome.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/SSDecodeColID.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/GetValidIPAddress.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/SnakeString.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/StringCompression.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" selection-start-line="20" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/mainthemain.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/LookAndSay.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Arrays/CanReachEndOfArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Arrays/GeneratePrimes.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Arrays/EvenBeforeOdd.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Arrays/DutchFlagPartition/DutchFlagPartition1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/Replace1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Arrays/ApplyPermutation.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Sorting/QuickSort.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/Array/2D Array/FindDiagonalOrder.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+        <state relative-caret-position="1564">
+          <caret line="92" column="33" selection-start-line="92" selection-start-column="33" selection-end-line="92" selection-end-column="33" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/Array/DominantIndex.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/Array/PivotIndex.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/algorithm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3202" selection-start-line="3202" selection-end-line="3202" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Arrays/BuyAndSellStocksOnce.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/StringMatching.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Arrays/DeleteDuplicates.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/RemoveAndReplace.cpp">
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/LCM.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/xhash">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="519" selection-start-line="519" selection-end-line="519" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/ValidParentheses.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/ReversesWordAndEquation.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Searching/BinarySearch1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Arrays/MultiplyArray.cpp">
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week2_algorithmic_warmup/7_last_digit_of_the_sum_of_fibonacci_numbers_again/fibonacci_partial_sum.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="29" column="36" lean-forward="true" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state>
+          <caret selection-end-line="28" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Arrays/DutchFlagPartition/DutchFlagPartition2.cpp">
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciLastDigit.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciNumbers.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciHugeWithPisano.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/RealStringCompression.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include/vector">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="674" column="15" selection-start-line="674" selection-start-column="15" selection-end-line="674" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DailyCodingProblem/FindWordIn2DArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="35" />
           <folding>
-            <element signature="e#513#532#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week2_algorithmic_warmup/8_last_digit_of_the_sum_of_squares_of_fibonacci_numbers/fibonacci_sum_squares.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="true" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/EuclidGCD.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciSquareSum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="45" column="25" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 2/FibonacciSumHuge.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week3_greedy_algorithms/1_money_change/change.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week3_greedy_algorithms/1_money_change/by_learners/change.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week3_greedy_algorithms/4_maximum_advertisement_revenue/dot_product.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week3_greedy_algorithms/5_collecting_signatures/covering_segments.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week3_greedy_algorithms/6_maximum_number_of_prizes/different_summands.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 1/MaximumPairWiseProduct.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week3_greedy_algorithms/7_maximum_salary/largest_number.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week3_greedy_algorithms/3_car_fueling/car_fueling.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MoneyChange.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Searching/SearchingAlgorithms.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaximumValueLoot.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaximumAdvertisementRevenue.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/CollectingSignatures.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaxNumOfPrizes.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DailyCodingProblem/power.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-422">
+        <state relative-caret-position="-506">
           <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Sorting/SelectionSortAlgo.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/CarRefills.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Sorting/MergeSortVec.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="24" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/ValidParentheses.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyCodingProblem/FindWordIn2DArray.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-758" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyCodingProblem/NumberOfTimes.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DailyCodingProblem/ProductArray.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Football.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="-221">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DailyCodingProblem/CheckTargetAddUp.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="-81">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#288#307#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CTCI Solutions/Arrays and Strings/CheckPermutation.cpp">
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week4_divide_and_conquer/1_binary_search/binary_search.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
+        <state relative-caret-position="225">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/RomanToInteger.cpp">
+    <entry file="file://$PROJECT_DIR$/DailyCodingProblem/FindElementInRotatedSortedArray.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="153">
+          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Arrays/PlusOne.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-          <folding>
-            <element signature="e#46#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Array/PivotIndex.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/RepeatedString.cpp">
+    <entry file="file://$PROJECT_DIR$/DSA/Arrays/CanReachEndOfArray.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/Array/2D Array/PascalTriangle.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="119">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/C++Practice/2DArray.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#289#308#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DSA/Searching/BinarySearch.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="319">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/Array/2D Array/SpiralOrdering.cpp">
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week4_divide_and_conquer/4_number_of_inversions/inversions.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="89" column="52" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
+        <state relative-caret-position="170">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DSA/Sorting/MergeTwoSortedArrays.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 4/BinarySearch.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/MaximumSalary.cpp" />
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 3/LargestNumber.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/Array/MajorityElement.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="64" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/books/Coursera UCSanDiego/Kaf7JoEdEemUJRIjvKFicg_933d588a38724ba2be07f4b42bbd1db0_toolbox1905280905/week4_divide_and_conquer/2_majority_element/majority_element.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="3" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseraUCSanDiego/AlgorithmToolbox/Week 4/NumberOfInversions.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -905,23 +1046,16 @@
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DSA/Strings/Interconvert.cpp">
+    <entry file="file://$PROJECT_DIR$/test.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#20#0" expanded="true" />
           </folding>
         </state>
       </provider>

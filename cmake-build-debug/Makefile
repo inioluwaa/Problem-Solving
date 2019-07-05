@@ -40,10 +40,10 @@ NULL=nul
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -60,7 +60,7 @@ CMAKE_BINARY_DIR = C:\Users\Inioluwa\CLionProjects\helloworld\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	echo >nul && "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	echo >nul && "C:\Program Files\JetBrains\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -71,7 +71,7 @@ edit_cache\fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	echo >nul && "C:\Program Files\JetBrains\CLion 2019.1.3\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	echo >nul && "C:\Program Files\JetBrains\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -124,32 +124,32 @@ helloworld\fast:
 	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\build
 .PHONY : helloworld\fast
 
-main2.obj: main2.cpp.obj
+test.obj: test.cpp.obj
 
-.PHONY : main2.obj
+.PHONY : test.obj
 
 # target to build an object file
-main2.cpp.obj:
-	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\main2.cpp.obj
-.PHONY : main2.cpp.obj
+test.cpp.obj:
+	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\test.cpp.obj
+.PHONY : test.cpp.obj
 
-main2.i: main2.cpp.i
+test.i: test.cpp.i
 
-.PHONY : main2.i
+.PHONY : test.i
 
 # target to preprocess a source file
-main2.cpp.i:
-	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\main2.cpp.i
-.PHONY : main2.cpp.i
+test.cpp.i:
+	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\test.cpp.i
+.PHONY : test.cpp.i
 
-main2.s: main2.cpp.s
+test.s: test.cpp.s
 
-.PHONY : main2.s
+.PHONY : test.s
 
 # target to generate assembly for a file
-main2.cpp.s:
-	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\main2.cpp.s
-.PHONY : main2.cpp.s
+test.cpp.s:
+	$(MAKE) -f CMakeFiles\helloworld.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\helloworld.dir\test.cpp.s
+.PHONY : test.cpp.s
 
 # Help Target
 help:
@@ -160,9 +160,9 @@ help:
 	@echo ... helloworld
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... main2.obj
-	@echo ... main2.i
-	@echo ... main2.s
+	@echo ... test.obj
+	@echo ... test.i
+	@echo ... test.s
 .PHONY : help
 
 

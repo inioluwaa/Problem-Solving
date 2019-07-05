@@ -1,48 +1,40 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
 
 using namespace std;
-int NumberOfTimes(int N, int X);
 
-int Segregate(vector<int> arr);
-vector<int> MatrixInSpiralOrder(vector<vector<int>> TwoArr);
-vector<vector<int>> MatrixSpiral(int);
-
-int main() {
-    int w = NumberOfTimes(6, 12);
-    cout << w;
-}
-
-int NumberOfTimes(int N, int X) {
-    int count = 0;
-    for (int i(1); i <= N; ++i) {
-        if (X % i == 0 && (X / i) <= N) {
+unsigned CountInRange (vector<int> &a, int num, int left, int right) {
+    unsigned int count = 0;
+    for (int i(left); i <= right; ++i) {
+        if (a[i] == num)
             count++;
-        }
     }
     return count;
 }
 
+int get_majority_element(vector<int> &a, int left, int right) {
+    if (left > right) return -1;
+    if (left == right) return a[left];
+    int middle = left + (right - left) / 2;
+    int left_side = get_majority_element(a, left, middle);
+    int right_side = get_majority_element(a, middle + 1, right);
 
-/*int Segregate(vector<int> arr) {
-    vector<int> &result = arr;
-    int j = 0;
-    for (int i(0); i < result.size(); ++i) {
-        if (result[i] > 0) {
-            swap(result[i], result[j++]);
-        }
-    }
-    return j;
+    if (left_side == right_side) return left_side;
+
+    int left_count = CountInRange(a, left_side, left, right);
+    int right_count = CountInRange(a, right_side, left, right);
+
+    if (left_count > a.size()/2) return left_side;
+    else if (right_count > a.size()/2) return right_side;
+    else return 0;
 }
 
-int FindMissingPositive(vector<int> arr) {
-    int end = Segregate(arr);
-    for (int i(0); i < end; ++i) {
-        int x = abs(arr[i]) - 1;
-        if (x < end && x > 0) {
-            arr[x] = -arr[x];
-        }
+int main() {
+    int n;
+    std::cin >> n;
+    vector<int> a(n);
+    for (size_t i = 0; i < a.size(); ++i) {
+        std::cin >> a[i];
     }
-    for (int i(0); i < end)
-}*/
+    std::cout << (get_majority_element(a, 0, a.size() - 1) != -1) << '\n';
+}

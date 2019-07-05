@@ -3,7 +3,8 @@
 
 using namespace std;
 
-/*int fibonacci_sum_squares_naive(long long n) {
+/*
+int fibonacci_sum_naive(long long n) {
     if (n <= 1)
         return n;
 
@@ -15,11 +16,12 @@ using namespace std;
         long long tmp_previous = previous;
         previous = current;
         current = tmp_previous + current;
-        sum += current * current;
+        sum += current;
     }
 
     return sum % 10;
-}*/
+}
+*/
 
 long long FindPisanoPeriod(long long m) {
     long long a = 0, b = 1, c = a + b;
@@ -30,7 +32,7 @@ long long FindPisanoPeriod(long long m) {
     }
 }
 
-long long FibonacciSquareSum(long long former_n) {
+long long FibonacciSumHuge(long long former_n) {
     long long m_pisano = FindPisanoPeriod(10);
     long long n = former_n % m_pisano;
     if (n == 0 || n == 1) return n;
@@ -41,14 +43,13 @@ long long FibonacciSquareSum(long long former_n) {
     if (n == 2) return result[0] + result[1];
     for(long long int i(2); i < n; ++i) {
         answer = result[i] = result[i - 1] + result[i - 2];
-        sum += answer * answer;
+        sum += answer;
     }
-    return sum;
+    return sum % 10;
 }
-
 
 int main() {
     long long n = 0;
     std::cin >> n;
-    std::cout << FibonacciSquareSum(n);
+    std::cout << FibonacciSumHuge(n);
 }

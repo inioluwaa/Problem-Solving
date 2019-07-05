@@ -1,42 +1,24 @@
+#include <algorithm>
 #include <iostream>
-#include <string>
 #include <vector>
 
-using namespace std;
+using std::vector;
 
-string WordPuzzle(const vector<vector<char>> &CheckerMatrix, const string& target);
-
-int main() {
-    vector<vector<char>> Checker = {
-            {'F', 'A', 'C', 'T'},
-            {'O', 'B', 'Q', 'S'},
-            {'A', 'N', 'Z', 'D'},
-            {'M', 'D', 'P', 'E'}
-    };
-    string answer = WordPuzzle(Checker, "BQS");
-    cout << answer;
+int get_majority_element(vector<int> &a, int left, int right) {
+    if (left == right) return -1;
+    if (left + 1 == right) return a[left];
+    int middle = left + ((right - left) / 2);
+    int left_side = get_majority_element(a, left, middle);
+    int right_side = get_majority_element(a, middle + 1, right);
+    return -1;
 }
 
-string WordPuzzle(const vector<vector<char>> &CheckerMatrix, const string& target) {
-    string worddown, wordright;
-    int row_size = CheckerMatrix.size();
-    int col_size = CheckerMatrix[0].size();
-    for (int i(0); i < row_size; ++i) {
-        for (int j(0); j < col_size; ++j) {
-            if (CheckerMatrix[i][j] == target[0]) {
-                worddown.push_back(target[0]);
-                wordright.push_back(target[0]);
-                for (int k(i + 1); k <= target.size() - 1; ++k) {
-                    worddown.push_back(CheckerMatrix[k][j]);
-                }
-                for (int l(j + 1); l <= target.size() - 1 && j != target.size(); ++l) {
-                    wordright.push_back(CheckerMatrix[i][l]);
-                }
-            }
-        }
-        /*if (worddown == target || wordright == target) {
-            return worddown;
-        }*/
+int main() {
+    int n;
+    std::cin >> n;
+    vector<int> a(n);
+    for (size_t i = 0; i < a.size(); ++i) {
+        std::cin >> a[i];
     }
-    return wordright;
+    std::cout << (get_majority_element(a, 0, a.size()) != -1) << '\n';
 }

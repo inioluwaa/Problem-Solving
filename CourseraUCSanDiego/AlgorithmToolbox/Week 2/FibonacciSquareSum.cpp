@@ -43,7 +43,7 @@ long long FibonacciSquareSum(long long former_n) {
         answer = result[i] = result[i - 1] + result[i - 2];
         sum += answer * answer;
     }
-    return sum;
+    return sum % m_pisano;
 }
 
 

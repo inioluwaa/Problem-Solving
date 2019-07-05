@@ -43,3 +43,24 @@ bool isValid(string s) {
     }
     return Stack.empty();
 }
+
+bool IsWellFormed(const string &s) {
+    stack<char> unmatched{};
+    for (char i : s) {
+        if (i == '(' || i == '{' || i == '[') {
+            unmatched.push(i);
+        }
+        else {
+            if (unmatched.empty()) {
+                return false;
+            }
+            if ( (i == ')' && unmatched.top() != '(') ||
+                 (i == '}' && unmatched.top() != '{') ||
+                 (i == ']' && unmatched.top() != '[')) {
+                return false;
+            }
+            unmatched.pop();
+        }
+    }
+    return unmatched.empty();
+}
